@@ -62,3 +62,12 @@ npm start
 ```
 
 Acesse a aplicação em: http://localhost:3000.
+
+
+
+Tela de login:
+![image](https://github.com/user-attachments/assets/cf778dac-5a36-4c86-ba1e-510e2776c391)
+
+Tela dos contatos registrados:
+![image](https://github.com/user-attachments/assets/852eb093-d338-4ff7-955a-33e2d52fc849)
+
