@@ -1,6 +1,6 @@
 # Projeto de Agenda
 
-Este projeto é uma aplicação de agenda simples, onde os usuários podem se cadastrar, fazer login, criar, editar e deletar contatos de sua agenda pessoal. O projeto utiliza tecnologias como Node.js, Express, MongoDB e EJS.
+Este projeto é uma aplicação de agenda simples, onde os usuários podem se cadastrar, fazer login, criar, editar e deletar contatos de sua agenda pessoal. O projeto utiliza tecnologias como Node.js, Express, MongoDB e EJS. No projeto utilizei o modelo de arquitetura MVC (Models, views e controllers).
 
 ## Funcionalidades
 
